@@ -1,0 +1,289 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.fooddonation"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->D:\FoodDonation1\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\FoodDonation1\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:9:5-163:19
+12        android:allowBackup="true"
+12-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:10:9-35
+13        android:debuggable="true"
+14        android:icon="@drawable/ic_launcher"
+14-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:11:9-45
+15        android:label="@string/app_name"
+15-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:12:9-41
+16        android:testOnly="true"
+17        android:theme="@style/AppTheme" >
+17-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:13:9-40
+18        <activity
+18-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:14:9-22:20
+19            android:name="com.example.fooddonation.MainActivity"
+19-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:15:13-65
+20            android:label="@string/app_name" >
+20-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:16:13-45
+21            <intent-filter>
+21-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:17:13-21:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:18:17-69
+22-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:18:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:20:17-77
+24-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:20:27-74
+25            </intent-filter>
+26        </activity>
+27        <activity
+27-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:23:9-26:20
+28            android:name="com.example.fooddonation.RegisterActivity"
+28-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:24:13-69
+29            android:label="@string/title_activity_register" >
+29-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:25:13-60
+30        </activity>
+31        <activity
+31-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:27:9-30:20
+32            android:name="com.example.fooddonation.AdminHome"
+32-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:28:13-62
+33            android:label="@string/title_activity_admin_home" >
+33-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:29:13-62
+34        </activity>
+35        <activity
+35-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:31:9-34:20
+36            android:name="com.example.fooddonation.DonorHome"
+36-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:32:13-62
+37            android:label="@string/title_activity_donor_home" >
+37-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:33:13-62
+38        </activity>
+39        <activity
+39-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:35:9-38:20
+40            android:name="com.example.fooddonation.OrphanageHome"
+40-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:36:13-66
+41            android:label="@string/title_activity_orphanage_home" >
+41-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:37:13-66
+42        </activity>
+43        <activity
+43-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:39:9-42:20
+44            android:name="com.example.fooddonation.VolunteerHome"
+44-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:40:13-66
+45            android:label="@string/title_activity_volunteer_home" >
+45-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:41:13-66
+46        </activity>
+47        <activity
+47-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:43:9-46:20
+48            android:name="com.example.fooddonation.DonateFood"
+48-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:44:13-63
+49            android:label="@string/title_activity_donate_food" >
+49-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:45:13-63
+50        </activity>
+51        <activity
+51-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:47:9-50:20
+52            android:name="com.example.fooddonation.ViewVolunteer"
+52-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:48:13-66
+53            android:label="@string/title_activity_view_volunteer" >
+53-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:49:13-66
+54        </activity>
+55        <activity
+55-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:51:9-54:20
+56            android:name="com.example.fooddonation.ViewVolunteerDetails"
+56-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:52:13-73
+57            android:label="@string/title_activity_view_volunteer_details" >
+57-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:53:13-74
+58        </activity>
+59        <activity
+59-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:55:9-58:20
+60            android:name="com.example.fooddonation.ViewOrphanage"
+60-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:56:13-66
+61            android:label="@string/title_activity_view_orphanage" >
+61-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:57:13-66
+62        </activity>
+63        <activity
+63-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:59:9-62:20
+64            android:name="com.example.fooddonation.ViewDonor"
+64-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:60:13-62
+65            android:label="@string/title_activity_view_donor" >
+65-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:61:13-62
+66        </activity>
+67        <activity
+67-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:63:9-66:20
+68            android:name="com.example.fooddonation.ViewOrphanageDetails"
+68-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:64:13-73
+69            android:label="@string/title_activity_view_orphanage_details" >
+69-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:65:13-74
+70        </activity>
+71        <activity
+71-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:67:9-70:20
+72            android:name="com.example.fooddonation.ViewDonorDetails"
+72-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:68:13-69
+73            android:label="@string/title_activity_view_donor_details" >
+73-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:69:13-70
+74        </activity>
+75        <activity
+75-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:71:9-74:20
+76            android:name="com.example.fooddonation.VolunteerViewOrphanage"
+76-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:72:13-75
+77            android:label="@string/title_activity_volunteer_view_orphanage" >
+77-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:73:13-76
+78        </activity>
+79        <activity
+79-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:75:9-78:20
+80            android:name="com.example.fooddonation.VolunteerViewDonor"
+80-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:76:13-71
+81            android:label="@string/title_activity_volunteer_view_donor" >
+81-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:77:13-72
+82        </activity>
+83        <activity
+83-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:79:9-82:20
+84            android:name="com.example.fooddonation.OrphanageViewVolunteer"
+84-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:80:13-75
+85            android:label="@string/title_activity_orphanage_view_volunteer" >
+85-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:81:13-76
+86        </activity>
+87        <activity
+87-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:83:9-86:20
+88            android:name="com.example.fooddonation.OrphanageViewDonor"
+88-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:84:13-71
+89            android:label="@string/title_activity_orphanage_view_donor" >
+89-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:85:13-72
+90        </activity>
+91        <activity
+91-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:87:9-90:20
+92            android:name="com.example.fooddonation.ViewDonorLoc"
+92-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:88:13-65
+93            android:label="@string/title_activity_view_donor_loc" >
+93-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:89:13-66
+94        </activity>
+95        <activity
+95-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:91:9-94:20
+96            android:name="com.example.fooddonation.ViewDonorLocD"
+96-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:92:13-66
+97            android:label="@string/title_activity_view_donor_loc_d" >
+97-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:93:13-68
+98        </activity>
+99        <activity
+99-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:95:9-98:20
+100            android:name="com.example.fooddonation.AcceptFood"
+100-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:96:13-63
+101            android:label="@string/title_activity_accept_food" >
+101-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:97:13-63
+102        </activity>
+103        <activity
+103-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:99:9-102:20
+104            android:name="com.example.fooddonation.ViewDonorDetailsV"
+104-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:100:13-70
+105            android:label="@string/title_activity_view_donor_details_v" >
+105-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:101:13-72
+106        </activity>
+107        <activity
+107-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:103:9-106:20
+108            android:name="com.example.fooddonation.ViewFood"
+108-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:104:13-61
+109            android:label="@string/title_activity_view_food" >
+109-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:105:13-61
+110        </activity>
+111        <activity
+111-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:107:9-110:20
+112            android:name="com.example.fooddonation.ViewFoodDonor"
+112-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:108:13-66
+113            android:label="@string/title_activity_view_food_donor" >
+113-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:109:13-67
+114        </activity>
+115        <activity
+115-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:111:9-114:20
+116            android:name="com.example.fooddonation.OrphanageSelectLoc"
+116-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:112:13-71
+117            android:label="@string/title_activity_orphanage_select_loc" >
+117-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:113:13-72
+118        </activity>
+119        <activity
+119-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:115:9-118:20
+120            android:name="com.example.fooddonation.OrphanageAccept"
+120-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:116:13-68
+121            android:label="@string/title_activity_orphanage_accept" >
+121-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:117:13-68
+122        </activity>
+123        <activity
+123-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:119:9-122:20
+124            android:name="com.example.fooddonation.DonatedFood"
+124-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:120:13-64
+125            android:label="@string/title_activity_donated_food" >
+125-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:121:13-64
+126        </activity>
+127        <activity
+127-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:123:9-126:20
+128            android:name="com.example.fooddonation.AdminDonatedFood"
+128-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:124:13-69
+129            android:label="@string/title_activity_admin_donated_food" >
+129-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:125:13-70
+130        </activity>
+131        <activity
+131-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:127:9-130:20
+132            android:name="com.example.fooddonation.UserHome"
+132-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:128:13-61
+133            android:label="@string/title_activity_user_home" >
+133-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:129:13-61
+134        </activity>
+135        <activity
+135-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:131:9-134:20
+136            android:name="com.example.fooddonation.UserSelectLoc"
+136-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:132:13-66
+137            android:label="@string/title_activity_user_select_loc" >
+137-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:133:13-67
+138        </activity>
+139        <activity
+139-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:135:9-138:20
+140            android:name="com.example.fooddonation.UserViewDonor"
+140-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:136:13-66
+141            android:label="@string/title_activity_user_view_donor" >
+141-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:137:13-67
+142        </activity>
+143        <activity
+143-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:139:9-142:20
+144            android:name="com.example.fooddonation.UserAccept"
+144-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:140:13-63
+145            android:label="@string/title_activity_user_accept" >
+145-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:141:13-63
+146        </activity>
+147        <activity
+147-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:143:9-146:20
+148            android:name="com.example.fooddonation.CheckHome"
+148-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:144:13-62
+149            android:label="@string/title_activity_check_home" >
+149-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:145:13-62
+150        </activity>
+151        <activity
+151-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:147:9-150:20
+152            android:name="com.example.fooddonation.ViewLocation"
+152-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:148:13-65
+153            android:label="@string/title_activity_view_location" >
+153-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:149:13-65
+154        </activity>
+155        <activity
+155-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:151:9-154:20
+156            android:name="com.example.fooddonation.ViewRequest"
+156-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:152:13-64
+157            android:label="@string/title_activity_view_request" >
+157-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:153:13-64
+158        </activity>
+159        <activity
+159-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:155:9-158:20
+160            android:name="com.example.fooddonation.ViewUser"
+160-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:156:13-61
+161            android:label="@string/title_activity_view_user" >
+161-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:157:13-61
+162        </activity>
+163        <activity
+163-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:159:9-162:20
+164            android:name="com.example.fooddonation.ChangePassword"
+164-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:160:13-67
+165            android:label="@string/title_activity_change_password" >
+165-->D:\FoodDonation1\app\src\main\AndroidManifest.xml:161:13-67
+166        </activity>
+167    </application>
+168
+169</manifest>

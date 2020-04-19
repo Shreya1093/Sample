@@ -1,0 +1,273 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:2:1-165:12
+INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:2:1-165:12
+INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:2:1-165:12
+INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:2:1-165:12
+INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:2:1-165:12
+INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:2:1-165:12
+INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:2:1-165:12
+	package
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:9:5-163:19
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.fooddonation.MainActivity
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:15:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.fooddonation.RegisterActivity
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:23:9-26:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:25:13-60
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:24:13-69
+activity#com.example.fooddonation.AdminHome
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:27:9-30:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:29:13-62
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:28:13-62
+activity#com.example.fooddonation.DonorHome
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:31:9-34:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:33:13-62
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:32:13-62
+activity#com.example.fooddonation.OrphanageHome
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:35:9-38:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:37:13-66
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:36:13-66
+activity#com.example.fooddonation.VolunteerHome
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:39:9-42:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:41:13-66
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:40:13-66
+activity#com.example.fooddonation.DonateFood
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:43:9-46:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:45:13-63
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:44:13-63
+activity#com.example.fooddonation.ViewVolunteer
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:47:9-50:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:49:13-66
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:48:13-66
+activity#com.example.fooddonation.ViewVolunteerDetails
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:51:9-54:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:53:13-74
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:52:13-73
+activity#com.example.fooddonation.ViewOrphanage
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:55:9-58:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:57:13-66
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:56:13-66
+activity#com.example.fooddonation.ViewDonor
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:59:9-62:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:61:13-62
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:60:13-62
+activity#com.example.fooddonation.ViewOrphanageDetails
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:63:9-66:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:65:13-74
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:64:13-73
+activity#com.example.fooddonation.ViewDonorDetails
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:67:9-70:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:69:13-70
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:68:13-69
+activity#com.example.fooddonation.VolunteerViewOrphanage
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:71:9-74:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:73:13-76
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:72:13-75
+activity#com.example.fooddonation.VolunteerViewDonor
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:75:9-78:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:77:13-72
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:76:13-71
+activity#com.example.fooddonation.OrphanageViewVolunteer
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:79:9-82:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:81:13-76
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:80:13-75
+activity#com.example.fooddonation.OrphanageViewDonor
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:83:9-86:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:85:13-72
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:84:13-71
+activity#com.example.fooddonation.ViewDonorLoc
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:87:9-90:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:89:13-66
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:88:13-65
+activity#com.example.fooddonation.ViewDonorLocD
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:91:9-94:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:93:13-68
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:92:13-66
+activity#com.example.fooddonation.AcceptFood
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:95:9-98:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:97:13-63
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:96:13-63
+activity#com.example.fooddonation.ViewDonorDetailsV
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:99:9-102:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:101:13-72
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:100:13-70
+activity#com.example.fooddonation.ViewFood
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:103:9-106:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:105:13-61
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:104:13-61
+activity#com.example.fooddonation.ViewFoodDonor
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:107:9-110:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:109:13-67
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:108:13-66
+activity#com.example.fooddonation.OrphanageSelectLoc
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:111:9-114:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:113:13-72
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:112:13-71
+activity#com.example.fooddonation.OrphanageAccept
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:115:9-118:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:117:13-68
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:116:13-68
+activity#com.example.fooddonation.DonatedFood
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:119:9-122:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:121:13-64
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:120:13-64
+activity#com.example.fooddonation.AdminDonatedFood
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:123:9-126:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:125:13-70
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:124:13-69
+activity#com.example.fooddonation.UserHome
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:127:9-130:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:129:13-61
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:128:13-61
+activity#com.example.fooddonation.UserSelectLoc
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:131:9-134:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:133:13-67
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:132:13-66
+activity#com.example.fooddonation.UserViewDonor
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:135:9-138:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:137:13-67
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:136:13-66
+activity#com.example.fooddonation.UserAccept
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:139:9-142:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:141:13-63
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:140:13-63
+activity#com.example.fooddonation.CheckHome
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:143:9-146:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:145:13-62
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:144:13-62
+activity#com.example.fooddonation.ViewLocation
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:147:9-150:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:149:13-65
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:148:13-65
+activity#com.example.fooddonation.ViewRequest
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:151:9-154:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:153:13-64
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:152:13-64
+activity#com.example.fooddonation.ViewUser
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:155:9-158:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:157:13-61
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:156:13-61
+activity#com.example.fooddonation.ChangePassword
+ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:159:9-162:20
+	android:label
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:161:13-67
+	android:name
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml:160:13-67
+uses-sdk
+INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml
+INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml
+INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml
+INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml
+		ADDED from D:\FoodDonation1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\FoodDonation1\app\src\main\AndroidManifest.xml

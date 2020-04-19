@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_donor_home.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_donor_home.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_check_home.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_check_home.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_password.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_home.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_admin_home.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_orphanage_view_volunteer.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_orphanage_view_volunteer.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pic.png.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\drawable-hdpi\\pic.png"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_orphanage_accept.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_orphanage_accept.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_donor_home.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\donor_home.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_donated_food.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\donated_food.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_view_location.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\view_location.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_volunteer_home.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_volunteer_home.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_check_home.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\check_home.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_donor_loc_d.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_view_donor_loc_d.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_admin_donated_food.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\admin_donated_food.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_location.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_view_location.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_orphanage_accept.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\orphanage_accept.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vol.jpeg.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\drawable-hdpi\\vol.jpeg"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_accept_food.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\accept_food.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_orphanage.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_view_orphanage.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_donor.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_view_donor.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_volunteer_home.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\volunteer_home.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_view_donor.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\view_donor.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_donate_food.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_donate_food.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_user_accept.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\user_accept.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_view_orphanage_details.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\view_orphanage_details.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rec.jpeg.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\drawable-hdpi\\rec.jpeg"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_view_food.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\view_food.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_home.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_user_home.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_admin.jpeg.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\drawable-hdpi\\admin.jpeg"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_volunteer_details.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_view_volunteer_details.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_user_select_loc.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\user_select_loc.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_user.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_view_user.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_request.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_view_request.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_rowlayout.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\rowlayout.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_register.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\register.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_view_donor.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_user_view_donor.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_volunteer.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_view_volunteer.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_view_volunteer_details.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\view_volunteer_details.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_view_food_donor.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\view_food_donor.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_donated_food.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_donated_food.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login.jpeg.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\drawable-hdpi\\login.jpeg"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_donor.jpeg.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\drawable-hdpi\\donor.jpeg"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_select_loc.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_user_select_loc.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_orphanage_home.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\orphanage_home.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_user_view_donor.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\user_view_donor.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_donor_loc.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_view_donor_loc.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_accept.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_user_accept.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_donor_details.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_view_donor_details.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_orphanage_select_loc.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_orphanage_select_loc.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_donated_food.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_admin_donated_food.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_donate_food.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\donate_food.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_view_volunteer.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\view_volunteer.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_food.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_view_food.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_change_password.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\change_password.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_orphanage_view_donor.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\orphanage_view_donor.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_view_orphanage.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\view_orphanage.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_volunteer_view_orphanage.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\volunteer_view_orphanage.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_orphanage_home.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_orphanage_home.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_orphanage_details.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_view_orphanage_details.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_view_donor_details.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\view_donor_details.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_volunteer_view_donor.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_volunteer_view_donor.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_user_home.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\user_home.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_food_donor.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_view_food_donor.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_accept_food.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_accept_food.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_donor_details_v.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_view_donor_details_v.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_orphanage_select_loc.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\orphanage_select_loc.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_orphanage_view_volunteer.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\orphanage_view_volunteer.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_volunteer_view_donor.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\volunteer_view_donor.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_view_donor_loc_d.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\view_donor_loc_d.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_im.jpg.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\drawable-hdpi\\im.jpg"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_view_request.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\view_request.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_admin_home.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\admin_home.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_view_user.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\view_user.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_view_donor_loc.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\view_donor_loc.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\menu_view_donor_details_v.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\menu\\view_donor_details_v.xml"
+    },
+    {
+        "merged": "D:\\FoodDonation1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_orphanage_view_donor.xml.flat",
+        "source": "D:\\FoodDonation1\\app\\src\\main\\res\\layout\\activity_orphanage_view_donor.xml"
+    }
+]

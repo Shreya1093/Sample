@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+        android:background="@drawable/pic"
+    tools:context=".VolunteerHome" >
+
+        <Button
+            android:id="@+id/donor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/logout"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="99dp"
+            android:background="@drawable/im"
+            android:text="View Donors" />
+
+        <Button
+            android:id="@+id/logout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/donor"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="140dp"
+            android:background="@drawable/im"
+            android:text="Logout" />
+
+        <Button
+            android:id="@+id/password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/logout"
+            android:layout_alignLeft="@+id/logout"
+            android:layout_marginBottom="26dp"
+            android:background="@drawable/im"
+            android:text="Change Password" />
+
+</RelativeLayout>
